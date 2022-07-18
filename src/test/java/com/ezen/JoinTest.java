@@ -14,4 +14,5 @@ public class JoinTest {
 		System.out.println("featuer/2 브랜치를 위한 테스트");
 		System.out.println("issue#2 장바구니 구현 완료");
 	}
+	
 }
